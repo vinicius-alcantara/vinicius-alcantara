@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicius-alcantara&label=Profile%20views&color=0e75b6&style=flat" alt="vinicius-alcantara" /> </p>
 
-- 🔭 I’m currently working on [Agility Networks](https://www.somosagility.com.br/)
+- 🔭 I’m currently working on [Matera](https://www.matera.com)
 
 - 🌱 I’m currently learning **Python, AWS, Teraform...**
 
